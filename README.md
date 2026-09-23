@@ -120,6 +120,17 @@ Contains the source data used in the project.
 5. Execute the analytical queries.
 6. Run the views and stored procedures to review the results.
 
+
+## Screenshots
+
+### Query 1
+
+![Query 1](Screenshots/q1.png.png)
+
+### Query 2
+
+![Query 2](Screenshots/q2.png.png)
+
 ## Training Program
 
 **Program:** Digital Egypt Pioneers Initiative (DEPI)
