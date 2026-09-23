@@ -1,6 +1,6 @@
 # SQL Data Warehouse & Business Analytics Project
 
-This project was developed as part of an advanced SQL project using SQL Server and SSMS.
+This project was developed as part of the **Digital Egypt Pioneers Initiative (DEPI)** training program, using SQL Server and SQL Server Management Studio (SSMS).
 
 The main goal was to transform the Superstore dataset into a relational data warehouse and use SQL for business analysis and KPI reporting.
 
@@ -9,6 +9,19 @@ The main goal was to transform the Superstore dataset into a relational data war
 The project includes database design, data modeling, SQL analysis, KPI calculations, views, stored procedures, and business-focused queries.
 
 The database was designed using fact and dimension tables with primary and foreign key relationships.
+
+## Key Features
+
+* Star schema database design
+* Fact and dimension tables
+* Primary and foreign key relationships
+* Advanced SQL queries
+* JOINs, subqueries, and CTEs
+* CASE-based analysis
+* SQL views
+* Stored procedures
+* KPI calculations
+* Sales and profitability analysis
 
 ## Database Design
 
@@ -88,29 +101,29 @@ The data was prepared and loaded into the relational tables before running the S
 
 ### SQL Script
 
-`Advanced_SQL_Data_Warehouse.sql`
+[Advanced_SQL_Data_Warehouse.sql](SQL/Advanced_SQL_Data_Warehouse.sql)
 
 Contains the database creation, table definitions, relationships, analytical queries, views, and stored procedures.
 
 ### Dataset
 
-`Central_Superstore.xlsx`
+[Central_Superstore.xlsx](Data/Central_Superstore.xlsx)
 
 Contains the source data used in the project.
 
 ## How to Run
 
 1. Open SQL Server Management Studio.
-2. Run the SQL script.
-3. Make sure the required data has been loaded into the tables.
-4. Execute the analytical queries.
-5. Run the views and stored procedures to review the results.
+2. Open the SQL script.
+3. Run the script to create the database and tables.
+4. Load the dataset into the required tables.
+5. Execute the analytical queries.
+6. Run the views and stored procedures to review the results.
 
-## Academic Project
+## Training Program
 
-**University:** Assiut University
-**Faculty:** Faculty of Computers & Information
-**Course:** Advanced SQL / Database Project
+**Program:** Digital Egypt Pioneers Initiative (DEPI)
+**Track:** Data Analysis
 
 ## Author
 
